@@ -1,0 +1,10 @@
+**How to use the code written in source code file:**
+Step 1: Copy the source code and paste it in Notepad ++
+Step 2: Now save the file with .html extension.
+Step 3: To run the code go to the location where file is saved and then double click it.
+Step 4: Now, it will open in your browser and you will be able to see how it looks like.
+
+**Core Principles**
+1. I design the code in a very logical way.
+2. I run my code through ol'validator because sometimes there was very little mistake in code that does not allow to run the code.
+3. We should use good naming conventions for class and other things.
