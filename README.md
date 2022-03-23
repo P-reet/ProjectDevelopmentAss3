@@ -12,3 +12,5 @@ Step 10: Under "Column name", type the name of the column you want to create.
 Step 11: Under "Automation", select an automation preset using the drop-down menu.
 Step 12: Select the workflow automations you want to configure for the column.
 Step 13: Click Create column.
+
+**This change is make to show changes in version2 branch.  **
